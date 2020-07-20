@@ -1,3 +1,33 @@
+## Shopify app store scraping
+
+## HOW TO RUN THE SCRIPT
+We have two scraping 
+* product_scraping.py
+  
+    This will help you to scrape all the urls of the products listed in shopify.
+    and output the result in json file in products.json
+
+
+
+* product_details.py
+  
+    This will go to each link and scrape all the details of the product each link.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## OUPUT JSON FOMAT
